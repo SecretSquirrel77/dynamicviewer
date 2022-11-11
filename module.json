@@ -30,7 +30,7 @@
         "name": "English",
         "path": "languages/en.json"
     }],
-    "url": "",
+    "url": "https://raw.githubusercontent.com/SecretSquirrel77/dynamicviewer/main/module.json",
     "manifest": "https://raw.githubusercontent.com/SecretSquirrel77/dynamicviewer/main/module.json",
     "download": "https://raw.githubusercontent.com/SecretSquirrel77/dynamicviewer/main/DynamicViewer-main.zip",
     "license": "LICENSE",
