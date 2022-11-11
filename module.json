@@ -31,7 +31,7 @@
         "path": "languages/en.json"
     }],
     "url": "This is auto replaced",
-    "manifest": "This is auto replaced",
+    "manifest": "https://raw.githubusercontent.com/SecretSquirrel77/dynamicviewer/main/module.json",
     "download": "This is auto replaced",
     "license": "LICENSE",
     "readme": "README.md",
