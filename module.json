@@ -31,7 +31,7 @@
     }
   ],
   "url": "https://github.com/SecretSquirrel77/",
-  "manifest": "raw.githubusercontent.com/SecretSquirrel77/dynamicviewer/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/SecretSquirrel77/dynamicviewer/main/module.json",
   "download": "https://raw.githubusercontent.com/SecretSquirrel77/dynamicviewer/main/module.zip",
   "license": "LICENSE",
   "readme": "README.md",
