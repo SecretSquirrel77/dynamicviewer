@@ -31,8 +31,8 @@
     }
   ],
   "url": "https://github.com/Vestium-R/DynamicViewer",
-  "manifest": "raw.githubusercontent.com/SecretSquirrel77/DynamicViewer/main/module.json",
-  "download": "https://raw.githubusercontent.com/SecretSquirrel77/DynamicViewer/main/module.zip",
+  "manifest": "raw.githubusercontent.com/SecretSquirrel77/dynamicviewer/main/module.json",
+  "download": "https://raw.githubusercontent.com/SecretSquirrel77/dynamicviewer/main/module.zip",
   "license": "LICENSE",
   "readme": "README.md",
   "media": [
